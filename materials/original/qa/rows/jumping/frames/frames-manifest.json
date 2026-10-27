@@ -1,0 +1,25 @@
+{
+  "ok": true,
+  "chroma_key": {
+    "hex": "#FF00FF",
+    "rgb": [
+      255,
+      0,
+      255
+    ],
+    "threshold": 96.0
+  },
+  "rows": [
+    {
+      "state": "jumping",
+      "frames": [
+        "[local path redacted]",
+        "[local path redacted]",
+        "[local path redacted]",
+        "[local path redacted]",
+        "[local path redacted]"
+      ],
+      "method": "components"
+    }
+  ]
+}

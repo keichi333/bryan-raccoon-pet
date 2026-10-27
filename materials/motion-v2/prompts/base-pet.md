@@ -1,0 +1,7 @@
+Create one clean full-body reference sprite for ChatGPT pet 小倒霉.
+
+Pet identity: Preserve existing custom raccoon exactly: gray-brown fur, dark wet round eyes and eye masks, cream muzzle, charcoal pompom beanie with mustard cuff, dark teal worn jacket and mustard scarf, green first-aid satchel attached on viewer-left, ringed tail viewer-right; delicate inked storybook style. Revise idle, waving, failed, waiting, running active-thinking, review to have distinct full-body and paw action. Primary repair: no alternating sideways head roll, no isolated head swinging, no abrupt neck hinge; head/scarf/shoulder connected, subtle coordinated body lean only. No new props, text or detached effects. Existing locomotion, jump and sixteen look directions will be preserved..
+Style: Pet-safe sprite: compact full-body mascot, readable in a 192x208 cell, clear silhouette, simple face, stable palette/materials, and crisp edges for chroma-key extraction. Style `painterly`: Painterly mascot with simplified brush texture, readable forms, stable palette, and enough edge clarity for clean extraction.
+
+
+Place a single centered pose on a perfectly flat pure magenta #FF00FF chroma-key background. Keep the full pet visible, compact, readable at 192x208, and easy to animate. Preserve approved reference identity cues. No scenery, text, borders, checkerboard transparency, shadows, glows, detached effects, or extra props. Keep #FF00FF and close colors out of the pet, props, highlights, and effects.

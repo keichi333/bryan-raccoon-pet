@@ -1,0 +1,61 @@
+{
+  "ok": true,
+  "strip": "[local path redacted]",
+  "directions": [
+    "000",
+    "090",
+    "180",
+    "270"
+  ],
+  "errors": [],
+  "anchors": [
+    {
+      "direction": "000",
+      "source_box": [
+        0,
+        0,
+        577,
+        765
+      ],
+      "used_pixels": 156186,
+      "edge_pixels": 0,
+      "output": "[local path redacted]"
+    },
+    {
+      "direction": "090",
+      "source_box": [
+        577,
+        0,
+        1154,
+        765
+      ],
+      "used_pixels": 153206,
+      "edge_pixels": 0,
+      "output": "[local path redacted]"
+    },
+    {
+      "direction": "180",
+      "source_box": [
+        1154,
+        0,
+        1731,
+        765
+      ],
+      "used_pixels": 155313,
+      "edge_pixels": 0,
+      "output": "[local path redacted]"
+    },
+    {
+      "direction": "270",
+      "source_box": [
+        1731,
+        0,
+        2308,
+        765
+      ],
+      "used_pixels": 151234,
+      "edge_pixels": 0,
+      "output": "[local path redacted]"
+    }
+  ]
+}

@@ -1,0 +1,142 @@
+{
+  "ok": true,
+  "frames_root": "[local path redacted]",
+  "states": [
+    "failed"
+  ],
+  "errors": [],
+  "warnings": [],
+  "rows": [
+    {
+      "state": "failed",
+      "expected_frames": 8,
+      "actual_frames": 8,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "[local path redacted]",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 17805,
+          "bbox": [
+            24,
+            5,
+            168,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 202
+        },
+        {
+          "index": 1,
+          "file": "[local path redacted]",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 17491,
+          "bbox": [
+            26,
+            6,
+            165,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 202
+        },
+        {
+          "index": 2,
+          "file": "[local path redacted]",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 16895,
+          "bbox": [
+            26,
+            13,
+            166,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 176
+        },
+        {
+          "index": 3,
+          "file": "[local path redacted]",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 16758,
+          "bbox": [
+            25,
+            18,
+            167,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 177
+        },
+        {
+          "index": 4,
+          "file": "[local path redacted]",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 16431,
+          "bbox": [
+            26,
+            21,
+            166,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 177
+        },
+        {
+          "index": 5,
+          "file": "[local path redacted]",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 17425,
+          "bbox": [
+            26,
+            6,
+            166,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 200
+        },
+        {
+          "index": 6,
+          "file": "[local path redacted]",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 17518,
+          "bbox": [
+            26,
+            5,
+            166,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 206
+        },
+        {
+          "index": 7,
+          "file": "[local path redacted]",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 17626,
+          "bbox": [
+            25,
+            5,
+            167,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 219
+        }
+      ]
+    }
+  ]
+}

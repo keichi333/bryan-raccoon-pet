@@ -1,0 +1,112 @@
+{
+  "ok": true,
+  "frames_root": "[local path redacted]",
+  "states": [
+    "waiting"
+  ],
+  "errors": [],
+  "warnings": [],
+  "rows": [
+    {
+      "state": "waiting",
+      "expected_frames": 6,
+      "actual_frames": 6,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "[local path redacted]",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 18612,
+          "bbox": [
+            21,
+            5,
+            170,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 122
+        },
+        {
+          "index": 1,
+          "file": "[local path redacted]",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 18894,
+          "bbox": [
+            21,
+            5,
+            170,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 128
+        },
+        {
+          "index": 2,
+          "file": "[local path redacted]",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 19011,
+          "bbox": [
+            21,
+            5,
+            170,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 128
+        },
+        {
+          "index": 3,
+          "file": "[local path redacted]",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 19257,
+          "bbox": [
+            21,
+            5,
+            170,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 138
+        },
+        {
+          "index": 4,
+          "file": "[local path redacted]",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 18808,
+          "bbox": [
+            21,
+            5,
+            170,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 106
+        },
+        {
+          "index": 5,
+          "file": "[local path redacted]",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 18462,
+          "bbox": [
+            22,
+            5,
+            169,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 126
+        }
+      ]
+    }
+  ]
+}

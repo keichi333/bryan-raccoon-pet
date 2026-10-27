@@ -1,0 +1,59 @@
+{
+  "purpose": "Match standing and airborne body size; preserve within-row motion with shared transforms",
+  "rows": [
+    {
+      "state": "idle",
+      "shared_scale": 0.78,
+      "source_row_bottom": 201,
+      "target_baseline": 198
+    },
+    {
+      "state": "running-right",
+      "shared_scale": 0.9,
+      "source_row_bottom": 184,
+      "target_baseline": 198
+    },
+    {
+      "state": "running-left",
+      "shared_scale": 0.9,
+      "source_row_bottom": 185,
+      "target_baseline": 198
+    },
+    {
+      "state": "waving",
+      "shared_scale": 0.78,
+      "source_row_bottom": 202,
+      "target_baseline": 198
+    },
+    {
+      "state": "jumping",
+      "shared_scale": 1.0,
+      "source_row_bottom": 202,
+      "target_baseline": 198
+    },
+    {
+      "state": "failed",
+      "shared_scale": 0.78,
+      "source_row_bottom": 201,
+      "target_baseline": 198
+    },
+    {
+      "state": "waiting",
+      "shared_scale": 0.78,
+      "source_row_bottom": 202,
+      "target_baseline": 198
+    },
+    {
+      "state": "running",
+      "shared_scale": 0.78,
+      "source_row_bottom": 202,
+      "target_baseline": 198
+    },
+    {
+      "state": "review",
+      "shared_scale": 0.78,
+      "source_row_bottom": 202,
+      "target_baseline": 198
+    }
+  ]
+}

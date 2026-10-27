@@ -1,0 +1,18 @@
+{
+  "pairs": [
+    {"pair":"horizontal-1","A":"screen-right","B":"screen-left","reason":"A's nose and eyes point right; B is the mirrored left-facing pose."},
+    {"pair":"horizontal-2","A":"screen-right","B":"screen-left","reason":"The muzzle projects to the right in A and to the left in B."},
+    {"pair":"horizontal-3","A":"screen-right","B":"screen-left","reason":"A's visible nose is on the right edge of the face; B's is on the left."},
+    {"pair":"horizontal-4","A":"screen-left","B":"screen-right","reason":"A's nose extends left while B's nose extends right."},
+    {"pair":"horizontal-5","A":"screen-right","B":"screen-left","reason":"A's muzzle and gaze are rightward; B's muzzle and gaze are leftward."},
+    {"pair":"horizontal-6","A":"screen-right","B":"screen-left","reason":"The nose sits to the right of the eyes in A and to their left in B."},
+    {"pair":"horizontal-7","A":"screen-left","B":"screen-right","reason":"A's eyes and nose turn left; B's turn right."},
+    {"pair":"vertical-1","A":"up","B":"down","reason":"A tilts its face and nose upward; B lowers its head and eyes toward the scarf."},
+    {"pair":"vertical-2","A":"down","B":"up","reason":"A's muzzle and gaze angle downward; B tilts its muzzle and gaze upward."},
+    {"pair":"vertical-3","A":"down","B":"up","reason":"A's head and nose pitch slightly downward; B's nose and gaze rise."},
+    {"pair":"vertical-4","A":"up","B":"ambiguous","reason":"A clearly lifts its nose and gaze; B's mostly side-facing muzzle is close to level, with too little pitch to identify confidently."},
+    {"pair":"vertical-5","A":"down","B":"up","reason":"A lowers its eyes and muzzle toward the scarf; B lifts its face and nose."},
+    {"pair":"vertical-6","A":"down","B":"up","reason":"A's head dips with the eyes aimed down; B's face is tipped up."},
+    {"pair":"vertical-7","A":"down","B":"ambiguous","reason":"A's face and nose tilt down; B's left-facing nose and eyes appear nearly level, making vertical pitch uncertain."}
+  ]
+}

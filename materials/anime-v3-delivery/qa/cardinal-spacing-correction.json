@@ -1,0 +1,31 @@
+{
+  "original_bounds": [
+    [
+      72,
+      91,
+      549,
+      647
+    ],
+    [
+      616,
+      89,
+      1090,
+      646
+    ],
+    [
+      1128,
+      85,
+      1594,
+      647
+    ],
+    [
+      1659,
+      87,
+      2125,
+      646
+    ]
+  ],
+  "new_slot_width": 577,
+  "shared_scale": 1,
+  "method": "Recover complete connected groups and add chroma padding; no redrawing or clipping"
+}

@@ -1,0 +1,68 @@
+{
+  "ok": true,
+  "atlas": "[local path redacted]",
+  "encoded_bytes": 2783115,
+  "sha256": "0a7d23a93356e68a92815b853359cd13f27a1857bdff03de9171c7307d6abcfe",
+  "jump": {
+    "idle_baseline": 197,
+    "jump_baselines": [
+      198,
+      179,
+      151,
+      182,
+      198
+    ],
+    "airborne_lift_pixels": 47,
+    "landing_delta_pixels": 1
+  },
+  "look_registration": {
+    "neutral_center_x": 96.0,
+    "look_centers_x": [
+      95.0,
+      95.0,
+      95.0,
+      95.0,
+      95.0,
+      95.0,
+      95.0,
+      95.0,
+      96.0,
+      95.5,
+      96.0,
+      95.0,
+      95.5,
+      96.0,
+      96.0,
+      95.0
+    ],
+    "look_widths": [
+      120,
+      118,
+      118,
+      118,
+      118,
+      118,
+      118,
+      118,
+      122,
+      121,
+      120,
+      120,
+      121,
+      120,
+      120,
+      120
+    ],
+    "maximum_center_drift_pixels": 1.0,
+    "maximum_width_ratio": 1.0338983050847457
+  },
+  "errors": [],
+  "warnings": [
+    "look direction 045 accepted with a reviewed warning",
+    "look direction 067.5 accepted with a reviewed warning",
+    "look direction 112.5 accepted with a reviewed warning",
+    "look direction 247.5 accepted with a reviewed warning",
+    "look direction 337.5 accepted with a reviewed warning",
+    "067.5->090 diff is a local outlier (1141 pixels vs neighbor average 776)"
+  ]
+}

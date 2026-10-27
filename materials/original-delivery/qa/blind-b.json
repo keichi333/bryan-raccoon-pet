@@ -1,0 +1,18 @@
+{
+  "pairs": [
+    {"pair":"horizontal-1","A":"screen-right","B":"screen-left","reason":"A's muzzle and eye line turn right; B mirrors them to the left."},
+    {"pair":"horizontal-2","A":"screen-right","B":"screen-left","reason":"A's nose projects to the right edge of its face; B's nose projects left."},
+    {"pair":"horizontal-3","A":"screen-right","B":"screen-left","reason":"A shows a right-facing profile with the nose at right; B shows the mirrored left-facing profile."},
+    {"pair":"horizontal-4","A":"screen-left","B":"screen-right","reason":"A's nose and visible muzzle point left; B's point right."},
+    {"pair":"horizontal-5","A":"screen-right","B":"screen-left","reason":"A's eyes and muzzle are turned right; B's eyes and muzzle are turned left."},
+    {"pair":"horizontal-6","A":"screen-right","B":"screen-left","reason":"Both heads pitch down, but A's nose sits to the right of center and B's to the left."},
+    {"pair":"horizontal-7","A":"screen-left","B":"screen-right","reason":"Both heads pitch down, but A's nose and gaze shift left while B's shift right."},
+    {"pair":"vertical-1","A":"up","B":"down","reason":"A lifts its nose and eyes toward the top; B lowers its nose and eyes toward its scarf."},
+    {"pair":"vertical-2","A":"down","B":"up","reason":"A's nose and gaze angle toward the scarf; B's chin rises and eyes look upward."},
+    {"pair":"vertical-3","A":"down","B":"up","reason":"A's muzzle points slightly below the eye line; B's head tilts back with the nose raised."},
+    {"pair":"vertical-4","A":"up","B":"down","reason":"A's muzzle and gaze are lifted; B's right-facing muzzle sits below the eye line."},
+    {"pair":"vertical-5","A":"down","B":"up","reason":"A's nose is lowered toward the scarf; B tilts its head back and looks upward."},
+    {"pair":"vertical-6","A":"down","B":"up","reason":"A dips its head and looks downward left; B raises its nose and looks upward left."},
+    {"pair":"vertical-7","A":"down","B":"up","reason":"A's head is pitched forward with the nose below the eyes; B's nose and eyes angle upward."}
+  ]
+}

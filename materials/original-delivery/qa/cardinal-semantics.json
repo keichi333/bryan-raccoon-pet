@@ -1,0 +1,9 @@
+{
+  "ok": true,
+  "directions": {
+    "000": "Chin and nose raised, underside of pale muzzle visible, eyes aimed above; torso fixed",
+    "090": "Nose and facial plane turn screen-right of head center; torso fixed",
+    "180": "Chin tucked to scarf, nose lowered below eyes, eye line downward; face visible",
+    "270": "Nose and facial plane turn screen-left of head center; torso fixed"
+  }
+}

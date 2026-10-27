@@ -1,0 +1,10 @@
+{
+  "id": "[redacted account pet ID]",
+  "name": "小倒霉",
+  "description": "一只总在回头张望的无辜小浣熊，倒霉、警觉，却还在努力生活。",
+  "is_custom": true,
+  "is_active": true,
+  "artwork_revision": "anime-v3",
+  "source_sha256": "099f105641693a8c37b0b1e14ae3a4b57c41ac93340c14010d886371deda9967",
+  "verified_in_pet_library": true
+}

@@ -1,0 +1,18 @@
+{
+  "pairs": [
+    {"pair":"horizontal-1","A":"screen-right","B":"screen-left","reason":"A's muzzle and nose point right; B's point left."},
+    {"pair":"horizontal-2","A":"screen-right","B":"screen-left","reason":"A's face projects toward the right edge; B's toward the left edge."},
+    {"pair":"horizontal-3","A":"screen-left","B":"screen-right","reason":"A's nose sits left of the eyes; B's sits right of them."},
+    {"pair":"horizontal-4","A":"screen-right","B":"screen-left","reason":"The visible nose and cheek profile face right in A and left in B."},
+    {"pair":"horizontal-5","A":"screen-right","B":"screen-left","reason":"A's muzzle extends right, while B's extends left."},
+    {"pair":"horizontal-6","A":"screen-right","B":"screen-left","reason":"Despite the lowered gaze, A's nose is on the right side of the face and B's on the left."},
+    {"pair":"horizontal-7","A":"screen-left","B":"screen-right","reason":"A's lowered muzzle angles left; B's lowered muzzle angles right."},
+    {"pair":"vertical-1","A":"down","B":"up","reason":"A's eyes and muzzle tip downward; B's chin lifts and eyes look above level."},
+    {"pair":"vertical-2","A":"up","B":"down","reason":"A's nose and gaze angle upward; B's nose and gaze angle toward the ground."},
+    {"pair":"vertical-3","A":"down","B":"up","reason":"A's face pitches down with lowered eyes; B's face pitches up with raised gaze."},
+    {"pair":"vertical-4","A":"up","B":"down","reason":"A's nose is lifted with eyes directed upward; B's gaze and muzzle angle lower."},
+    {"pair":"vertical-5","A":"up","B":"down","reason":"A's leftward muzzle and gaze tilt up; B's muzzle and eyes tilt down."},
+    {"pair":"vertical-6","A":"up","B":"down","reason":"A's head and eyes angle up to the left; B's eyes and nose point downward."},
+    {"pair":"vertical-7","A":"down","B":"up","reason":"A's eyes and nose sit low on the face; B's leftward muzzle and gaze lift upward."}
+  ]
+}
