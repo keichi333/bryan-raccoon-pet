@@ -1,69 +1,69 @@
-# 布莱恩 🦝
+# Bryan 🦝
 
-一只灰棕色、总是警觉地张望的小浣熊。它戴着针织帽，穿着深绿色外套，背着急救包，虽然看上去有些狼狈，仍然努力生活。
+Bryan is a small, gray-brown raccoon who is always looking around with a wary expression. Wearing a knit hat and a dark green jacket and carrying a first-aid bag, he may look a little worse for wear, but he keeps trying his best.
 
-![布莱恩的动作预览](preview.gif)
+![Bryan's animation preview](preview.gif)
 
-这里提供用于 **ChatGPT Work 模式 Pets 插件**的动画素材。它包含待机、移动、挥手、跳跃、受挫、等待、思考、检查等动作，以及跟随视线的方向帧。
+This repository contains animated artwork for the **Pets plugin in ChatGPT Work mode**. Bryan can idle, move, wave, jump, react to failure, wait, think, and review, with additional frames for looking in different directions.
 
-## 一键领养到自己的账号
+## Adopt Bryan
 
-1. 在支持 Pets 的 ChatGPT Work 环境中登录自己的账号，打开 [领养布莱恩](https://chatgpt.com/s/sharepet_6ae0368e7bc0819195ac42683ab3cd9d)。
-2. 根据页面提示领养。这个链接会在你的宠物库里创建一份属于你自己的副本，包含名称、描述和完整动画精灵图。
-3. 在宠物选择中选择刚领养的宠物并启用。分享链接中的原始名称可能与本页面不同，可在领养后将自己的副本更名为“布莱恩”。如果你的界面没有领养按钮，可在支持 Pets 插件的对话中发送：
+1. Sign in to your account in a ChatGPT Work environment that supports Pets, then open [Adopt Bryan](https://chatgpt.com/s/sharepet_6ae0368e7bc0819195ac42683ab3cd9d).
+2. Follow the prompts to adopt the pet. The share link creates your own copy in your pet library, including its name, description, and complete animated sprite sheet.
+3. Select the pet you just adopted and enable it. The original name in the share link may differ from the name on this page; you can rename your copy to **Bryan** after adoption. If your interface does not show an adoption button, send the following message in a conversation with access to the Pets plugin:
 
-   > 请使用这个分享链接领养宠物，并启用它：https://chatgpt.com/s/sharepet_6ae0368e7bc0819195ac42683ab3cd9d
+   > Please adopt and enable the pet from this share link: https://chatgpt.com/s/sharepet_6ae0368e7bc0819195ac42683ab3cd9d
 
-该链接适用于支持 ChatGPT Pets 的环境；是否能在其他 Codex 客户端直接显示取决于该客户端是否接入 Pets。它不是独立桌面程序或通用 Codex 扩展。
+The link works in environments that support ChatGPT Pets. Whether it appears in another Codex client depends on that client's Pets integration. This is not a standalone desktop application or a general-purpose Codex extension.
 
-## 下载
+## Download
 
-### 下载整个仓库
+### Download the entire repository
 
-在本页面点击 **Code → Download ZIP**，解压到本地。也可以使用 Git：
+Click **Code → Download ZIP** on this page and extract the archive, or clone it with Git:
 
 ```bash
 git clone https://github.com/keichi333/bryan-raccoon-pet.git
 ```
 
-解压或克隆后，使用 `spritesheet.png` 创建宠物。请保留原始 PNG，不要截图、裁剪、压缩或改名成其他图片格式。
+After extracting or cloning, use `spritesheet.png` to create the pet. Keep the original PNG; do not replace it with a screenshot, crop it, compress it, or convert it to another image format.
 
-### 只下载素材
+### Download individual files
 
-打开 [动画精灵图](spritesheet.png)，点击 GitHub 页面中的下载原始文件按钮并保存；如果浏览器直接打开图片，请另存原图。不要保存页面预览缩略图。其他文件：
+Open the [animation sprite sheet](spritesheet.png) and use GitHub's download button to save the original file. If your browser opens the image directly, save the original image rather than a preview thumbnail.
 
-- [动画预览 GIF](preview.gif)：用于查看动作，不用于导入。
-- [高清角色立绘](character.png)：用于欣赏，不包含动画帧。
+- [Animation preview GIF](preview.gif): for viewing the animations, not for import.
+- [High-resolution character artwork](character.png): a still illustration without animation frames.
 
-### 完整制作资料
+### Complete production materials
 
-[`materials/`](materials/) 目录包含初版、动作修改版和日漫版的素材、逐帧图、预览、提示词、检查报告及制作脚本。直接浏览仓库中的目录，或使用上面的 Git / Download ZIP 下载完整仓库。
+The [`materials/`](materials/) directory contains artwork, individual frames, previews, prompts, review reports, and production scripts for the original, revised-motion, and anime versions. Browse the directories directly, or download the complete repository using Git or **Download ZIP** as described above.
 
-为了公开分享，资料中的账号专属宠物 ID、临时链接和本机绝对路径已经脱敏，因此旧制作脚本仅供参考，不能保证开箱即运行。直接使用宠物请优先采用上面的领养链接。
+Account-specific pet IDs, temporary links, and local absolute paths have been redacted for public sharing. The older production scripts are provided for reference and may not run without modification. To use the pet directly, start with the adoption link above.
 
-## 创建并启用宠物
+## Create and enable the pet from the sprite sheet
 
-1. 在支持 Pets 插件的 ChatGPT Work 环境中登录自己的账号，并确保可以使用 **Pets** 插件。插件和自定义宠物功能的可用性取决于账号和客户端。
-2. 在对话中附上下载的 `spritesheet.png`，调用或提及 Pets 插件，并发送：
+1. Sign in to a ChatGPT Work environment that supports the **Pets** plugin and make sure you can use it. Availability of the plugin and custom pets depends on your account and client.
+2. Attach the downloaded `spritesheet.png` to a conversation, invoke or mention the Pets plugin, and send:
 
-   > 请使用这张现成的完整精灵图创建名为“布莱恩”的自定义宠物。请先验证它，使用原图创建，不要重新生成或修改画面；创建后帮我启用。
+   > Please create a custom pet named Bryan using this complete, existing sprite sheet. Validate it first and use the original image without regenerating or modifying the artwork. After creating the pet, please enable it.
 
-3. 按对话中的提示完成插件授权或确认。插件需要先验证图像，再上传并创建宠物；创建成功后还需要选择它作为当前宠物。若对话只提供预览，请明确要求完成创建和启用。
-4. 返回 Work 界面查看宠物。如果暂时没有出现，可在宠物选择中重新选择“布莱恩”，或重新打开客户端。宠物保存在各自账号中，下载文件本身不会自动安装。
+3. Complete any plugin authorization or confirmation requested in the conversation. The plugin needs to validate the image, upload it, and create the pet; the new pet must then be selected as active. If you only receive a preview, explicitly ask for creation and activation.
+4. Return to the Work interface to see the pet. If it does not appear immediately, select **Bryan** again in the pet selector or reopen the client. Pets belong to individual accounts; downloading the file alone does not install one.
 
-如果你的客户端没有 Pets 插件或无法使用自定义宠物，该素材不能单独作为桌面程序运行。界面名称和入口可能随版本变化；不要将它复制到猜测的系统目录，也不需要提供 API 密钥。
+If your client does not provide the Pets plugin or custom pets, these files cannot run as a standalone desktop pet. Interface labels and entry points may change between versions. Do not copy the files into a guessed system directory; no API key is needed for this workflow.
 
-## 排查问题
+## Troubleshooting
 
-- **验证尺寸失败**：确认使用的是原始 `spritesheet.png`，而不是 GIF、立绘或截图。原图为透明 PNG，尺寸 **1536 × 2288**。
-- **创建成功但看不到**：确认已将新建的“布莱恩”选为当前宠物，并检查客户端是否支持该功能。
-- **显示偏模糊**：动画以每格 **192 × 208** 像素制作；实际角色占据其中一部分，放大显示会让线条变软。立绘分辨率更高，但不能替代动画精灵图。
-- **下载后只有一张大图**：这是正常的。精灵图把所有动作帧排在同一张图片中，由 Pets 插件解析。
+- **Image validation fails:** Use the original `spritesheet.png`, not the GIF, character artwork, or a screenshot. The original is a transparent PNG measuring **1536 × 2288** pixels.
+- **The pet was created but does not appear:** Select the newly created pet as active and check that your client supports the feature.
+- **The pet looks blurry:** Each animation cell is **192 × 208** pixels, and the character occupies only part of it. Enlarging the image can soften its outlines. The character illustration has a higher resolution but cannot replace the animated sprite sheet.
+- **The download contains one large image:** This is expected. The sprite sheet arranges all animation frames in one image for the Pets plugin to interpret.
 
-## 精灵图规格
+## Sprite sheet specification
 
-该文件为 v2 布局，8 列 × 11 行，每格 192 × 208 像素。前九行依次为待机、向右移动、向左移动、挥手、跳跃、受挫、等待、工作/思考和检查；最后两行为 16 个视线方向。未使用的单元格透明。使用时应保持原有尺寸和透明度。
+The image uses the v2 layout: 8 columns by 11 rows, with **192 × 208** pixels per cell. The first nine rows contain idle, rightward movement, leftward movement, waving, jumping, failure, waiting, working/thinking, and review animations. The final two rows contain 16 look directions. Unused cells are transparent. Preserve the original dimensions and transparency.
 
-## 使用说明
+## Usage and permissions
 
-本仓库公开提供素材以便查看和下载。素材的其他使用、再分发和商用授权尚未单独声明，请联系仓库所有者确认。
+The artwork is publicly available in this repository for viewing and downloading. Additional permissions for use, redistribution, and commercial use have not been separately specified; contact the repository owner for clarification.
